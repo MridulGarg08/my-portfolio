@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     port: 3001, // Change this to your desired port
   },
+  base:"/my-portfolio/"
 })
