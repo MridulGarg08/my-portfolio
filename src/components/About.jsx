@@ -17,40 +17,22 @@ const About = () => {
         <p className="text-xl">
           I am an enthusiastic and dedicated student with a strong passion for
           software engineering, I take great pride in my exceptional academic
-          track record. As a computer science student, I have consistently
-          excelled in my coursework, maintaining a high GPA, and earning
-          recognition for academic achievements. My commitment to learning and
-          my ability to grasp complex concepts have been key factors in my
-          academic success.
+          track record. My commitment to learning and my ability to grasp
+          complex concepts have been key factors in my academic success.
         </p>
         <br />
 
         <p className="text-xl">
-          Proficient in a range of programming languages, including C/C++ and
-          Python. I am well-versed in data structures, algorithms, and
-          problem-solving. I also have hands-on experience with web development
-          technologies, such as HTML, CSS, and TailwindCSS. My academic journey
-          has provided me with a solid foundation in object-oriented programming
-          and database management systems, which I'm eager to apply in
-          real-world projects.I've applied my knowledge and skills to create
-          various software projects. These projects not only showcase my
-          technical skills but also demonstrate my ability to work in
-          collaborative teams and adapt to new challenges.
+          I am well-versed in data structures, algorithms, and problem-solving.
+          I also have hands-on experience with web development technologies,
+          such as HTML, CSS, and TailwindCSS. My academic journey has provided
+          me with a solid foundation in object-oriented programming which I'm
+          eager to apply in real-world projects.I've applied my knowledge and
+          skills to create these software projects. These projects not only
+          showcase my technical skills but also demonstrate my ability to work
+          in collaborative teams and adapt to new challenges.
         </p>
         <br />
-
-        <p className="text-xl">
-          In addition to my academic accomplishments, I have valuable experience
-          working collaboratively in a team setting. I actively participated in
-          an organization within my college, where I contributed to group
-          projects, enhanced my teamwork and communication skills, and
-          successfully collaborated with peers to achieve common goals. This
-          experience has reinforced my ability to work effectively in a team, a
-          skill that I am excited to leverage in a professional software
-          engineering environment.
-        </p>
-        <br />
-
         <p>
           My commitment to continuous learning, and a natural inclination for
           problem-solving make me an ideal candidate for a software engineering
