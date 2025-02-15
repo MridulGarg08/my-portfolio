@@ -4,10 +4,10 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full bg-gradient-to-b from-gray-800 to-black text-white md:h-screen md:pt-40"
+      className="w-full bg-gradient-to-b from-gray-800 to-black text-white"
     >
-      <div className="max-w-screen-lg mx-auto p-10 flex flex-col justify-center w-full h-full">
-        <div className="">
+      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full">
+        <div className="pb-8">
           <h1 className="text-4xl font-bold inline border-b-4 border-gray-500 ">
             About
           </h1>
@@ -31,14 +31,6 @@ const About = () => {
           skills to create these software projects. These projects not only
           showcase my technical skills but also demonstrate my ability to work
           in collaborative teams and adapt to new challenges.
-        </p>
-        <br />
-        <p>
-          My commitment to continuous learning, and a natural inclination for
-          problem-solving make me an ideal candidate for a software engineering
-          role. I am excited to embark on a career where I can leverage my
-          skills to develop innovative solutions, drive progress, and contribute
-          to a team's success in the ever-evolving tech landscape.
         </p>
       </div>
     </div>
