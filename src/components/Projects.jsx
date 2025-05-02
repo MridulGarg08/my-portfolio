@@ -1,12 +1,7 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
 import readhaven from "../assets/portfolio/readhaven.png";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import portfolio from "../assets/portfolio/portfolio.png";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import talko from "../assets/portfolio/talko.png";
+import fileShare from "../assets/portfolio/fileShare.png";
 
 const Projects = () => {
   const project = [
@@ -18,9 +13,15 @@ const Projects = () => {
     },
     {
       id: 2,
-      src: portfolio,
-      url: "https://my-portfolio-jkra.onrender.com/",
-      code: "https://github.com/MridulGarg08/my-portfolio",
+      src: fileShare,
+      url: "https://fileshare-atxp.onrender.com/",
+      code: "https://github.com/MridulGarg08/fileshare",
+    },
+    {
+      id: 3,
+      src: talko,
+      url: "https://mern-chat-web-app-1-qcdj.onrender.com/login",
+      code: "https://github.com/MridulGarg08/mern-chat-web-app",
     },
   ];
 
@@ -45,14 +46,14 @@ const Projects = () => {
                 alt=""
               ></img>
               <div className="flex items-center justify-center">
-                <a
+                {/* <a
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 inline-block text-center"
                 >
                   <button className="w-full">Demo</button>
-                </a>
+                </a> */}
 
                 <a
                   href={item.code}
